@@ -1,2 +1,3 @@
 Conteudo do novo arquivo da branch
 Alteração remota
+Mais uma modificação local
