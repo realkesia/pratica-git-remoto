@@ -1,1 +1,2 @@
 Conteudo do arquivo 1
+Linha adicionada pela nova branch
